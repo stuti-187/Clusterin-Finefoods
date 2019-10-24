@@ -1,0 +1,91 @@
+Based on the presence of a term in the review:
+
+Top 5 words and their feature values in Cluster 1:
+tea  : 0.9992674887074282  
+taste  : 0.2960078134538032  
+flavor  : 0.29090465144669525  
+good  : 0.2793798071053691  
+drink  : 0.2206324014160724  
+
+
+Top 5 words and their feature values in Cluster 2:
+
+food  : 0.9157784683293408  
+dog  : 0.4723666250396426  
+eat  : 0.3488513925594144  
+cat  : 0.31260709203382964  
+dogs  : 0.2622774663838906  
+
+
+Top 5 words and their feature values in Cluster 3:
+
+buy  : 1.0000000000000406  
+good  : 0.2651480405646427  
+great  : 0.23663558069612736  
+taste  : 0.21589461346379046  
+product  : 0.2060592162258596  
+
+
+Top 5 words and their feature values in Cluster 4:
+
+product  : 0.1697105183388414  
+love  : 0.16936319086588275  
+taste  : 0.16580782055173285  
+flavor  : 0.13731433767827722  
+best  : 0.10661058906741158  
+
+
+Top 5 words and their feature values in Cluster 5:
+
+amazon  : 0.9954354408643482  
+product  : 0.3817282053599175  
+price  : 0.27337641795081136  
+great  : 0.2542143083111082  
+good  : 0.20615085641970507  
+
+
+Top 5 words and their feature values in Cluster 6:
+
+good  : 1.0000000000004106  
+taste  : 0.2459910091250871  
+product  : 0.17448336017172733  
+flavor  : 0.167387949543734  
+love  : 0.13414184111643113  
+
+
+Top 5 words and their feature values in Cluster 7:
+
+taste  : 0.6895439115381925  
+good  : 0.6172150707492763  
+flavor  : 0.5237118945989642  
+product  : 0.4517527644270672  
+great  : 0.3487043323361873  
+
+
+Top 5 words and their feature values in Cluster 8:
+
+coffee  : 0.9890551373268316  
+cup  : 0.3961364447028791  
+flavor  : 0.3281018266471009  
+taste  : 0.2993786021363741  
+good  : 0.2928642499108157  
+
+
+Top 5 words and their feature values in Cluster 9:
+
+great  : 1.000000000000409  
+taste  : 0.2310508303411118  
+product  : 0.21678635547576447  
+good  : 0.1960979578096234  
+love  : 0.19322262118490974  
+
+
+Top 5 words and their feature values in Cluster 10:
+
+find  : 0.9998926433877277  
+amazon  : 0.39150272417417264  
+product  : 0.24139134168922904  
+great  : 0.2213424944308788  
+love  : 0.21012372849513675  
+
+Process finished with exit code 0
